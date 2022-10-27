@@ -4,7 +4,7 @@
     background-color: lightblue;
 }
 
-header {
+/* header {
     padding: 20px 35px;
     background-color: #39a6b2;
     display: flex;
@@ -34,9 +34,9 @@ header a {
     background-color: #39a6b2;
     text-decoration: none;
     color: var(--primary-color);
-}
+} */
 
-header nav {
+/* header nav {
     margin: 7px 0;
 }
 
@@ -59,8 +59,8 @@ header nav ul li a:hover {
     background: lightblue;
     color: darkblue;
     /* border-radius: 15px; */
-    text-shadow: none;
-}
+    /* text-shadow: none; */
+/* } */ 
 
 .bio{
     margin-top: 50px;
