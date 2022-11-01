@@ -87,26 +87,25 @@ header nav ul li a:hover {
 
 /* ===================================================== */
 
-#dash {
+#dash img {
     border: 3px solid aqua;
-    background-image: url("../images/weather.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 150px;
 }
 
-#team {
+#team img {
     border: 3px solid aqua;
-    background-image: url("../images/team.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+    height: 150px;
 }
 
-#network {
+#network img {
     border: 3px solid aqua;
-    background-image: url("../images/network.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+    height: 150px;
 }
 
 /* ======================================================== */
