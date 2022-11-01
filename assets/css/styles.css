@@ -85,41 +85,31 @@ header nav ul li a:hover {
     background: none;
 }
 
-#run-buddy {
+/* ===================================================== */
+
+#dash {
     border: 3px solid aqua;
-    background-image: url("../images/run_buddy.png");
+    background-image: url("../images/weather.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 150px;
 }
 
-#led-wall {
+#team {
     border: 3px solid aqua;
-    background-image: url("../images/led.png");
+    background-image: url("../images/team.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-#calculator {
+#network {
     border: 3px solid aqua;
-    background-image: url("../images/calculator.png");
+    background-image: url("../images/network.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-#surf-report {
-    border: 3px solid aqua;
-    background-image: url("../images/surf.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-#pastel-puzzels {
-    border: 3px solid aqua;
-    background-image: url("../images/puzzle.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-}
+/* ======================================================== */
 
 footer {
     background: lightblue;
